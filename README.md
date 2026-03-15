@@ -1,2 +1,2 @@
-Live Demo: https://public.tableau.com/app/profile/tanishq.baranwal/viz/HeartDisease_Tanishque_202401100200318/Dashboard2?publish=yes
+Live Demo: https://public.tableau.com/views/tanishque/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 video Demo: 
